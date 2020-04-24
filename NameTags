@@ -1,3 +1,4 @@
+```lua
 -- Register the behaviour
 behaviour("NameTags")
 
@@ -110,3 +111,4 @@ function NameTags:Update()
 		end
 	end
 end
+```
