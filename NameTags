@@ -1,4 +1,4 @@
-```lua
+```Lua
 -- Register the behaviour
 behaviour("NameTags")
 
